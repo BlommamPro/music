@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=blommampro&color=blue)
+![](https://api.visitorbadge.io/api/VisitorHit?user=blommampro&repo=music&countColor=%237B1E7A)

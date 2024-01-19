@@ -4,7 +4,7 @@ ownerID: "", //write your discord user id.
 botInvite: "", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
 mongodbURL: "", //write your mongodb url.
-status: '❤️ EstrellaMusic',
+status: 'x.com',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl
 embedColor: "16A0EE", //hex color code
